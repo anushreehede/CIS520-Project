@@ -1,0 +1,16 @@
+---
+:id: 26415114
+:submitters:
+- :name: Anushree Hede
+  :email: anuhede@seas.upenn.edu
+- :name: Venkat Velpula
+  :email: velpula@seas.upenn.edu
+- :name: Arnav Dhamija
+  :email: adhamija@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-12-11 04:18:33.073363000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-12-10 20:18:33.073363000 Z
+:status: processed
+:score: 14.0
